@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module github.com/LukasW/termine-hugo-blox
 
 go 1.19
